@@ -1,2 +1,2 @@
-# PowerBI-Dashboard-Netflix
+# PowerBI-Dashboard
 Analytics Portfolio
